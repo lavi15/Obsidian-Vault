@@ -1,0 +1,41 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#aaff99",
+      "directory": "1. Project/1. 개인 업무"
+    },
+    {
+      "type": "local",
+      "color": "#438bfe",
+      "directory": "1. Project/2. 일정 완료"
+    },
+    {
+      "type": "local",
+      "color": "#ff6666",
+      "directory": "1. Project/3. 일정 미완료"
+    },
+    {
+      "type": "ical",
+      "color": "#aaff99",
+      "url": "https://calendar.google.com/calendar/ical/26c18f87103dfc0bf4c9e1b035a08995baa930353241842643d12fb9294a0342%40group.calendar.google.com/private-6cf8f5b4d4cefa40352df14a50e55d7c/basic.ics"
+    },
+    {
+      "type": "ical",
+      "color": "#438bfe",
+      "url": "https://calendar.google.com/calendar/ical/57d06775868fbad9c8831676b03355e3bdda0f47558715f6c62e5aebf8de52c1%40group.calendar.google.com/private-4c49e38ec8aa4efb1f4055c76a641e91/basic.ics"
+    },
+    {
+      "type": "ical",
+      "color": "#ff6666",
+      "url": "https://calendar.google.com/calendar/ical/84a1d63af1882af2cf25acfeb272579bcdd1008d9eee6d577f713f0688a7c99f%40group.calendar.google.com/private-a03bbaf2c390266a91940c4a71356e2c/basic.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}
