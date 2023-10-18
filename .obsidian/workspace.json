@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "115ee89d5fef6d47",
+            "id": "bd37c759e211b6f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archive/dddddd.md",
+                "file": "2. Area/dddd.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archive/dddddd.md",
+                "file": "2. Area/dddd.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archive/dddddd.md",
+                "file": "2. Area/dddd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archive/dddddd.md"
+                "file": "2. Area/dddd.md"
               }
             }
           },
@@ -197,35 +197,37 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "115ee89d5fef6d47",
+  "active": "f59471c906034cff",
   "lastOpenFiles": [
-    "2. Area/dddd.md",
     "4. Archive/dddddd.md",
+    "3 Resource/Spring/Spring.md",
+    "3 Resource/Spring/Spring Resource/Spring이란.md",
+    "3 Resource/Spring/Spring Resource/Bootstrap.md",
+    "3 Resource/Kotlin/자료형/자료형.md",
+    "3 Resource/Kotlin/Kotlin.md",
+    "3 Resource/Kotlin/자료형",
+    "3 Resource/Kotlin",
+    "3 Resource/Spring/Spring Exam/Spring MVC 예제/Spring MVC 예제.md",
+    "3 Resource/Spring/Spring Exam/Spring MVC 예제/controller.java.md",
+    "3 Resource/Spring/Spring Exam/Spring MVC 예제/JSON DI 사용.md",
+    "3 Resource/Spring/Spring Resource/Spring MVC/Spring MVC.md",
+    "3 Resource/Spring/Spring Resource/Spring MVC/HandlerMapping.md",
+    "3 Resource/Spring/Spring Resource/Spring MVC/Controller.md",
+    "3 Resource/Spring/Spring Resource/Spring MVC/View.md",
+    "3 Resource/Spring/Spring Resource/Spring MVC/ViewResolver.md",
+    "3 Resource/Spring/Spring Resource/Spring MVC/ModelAndView.md",
+    "3 Resource/Spring/Spring Exam/Spring MVC 예제/web.xml.md",
+    "3 Resource/Spring/Spring Exam/Spring MVC 예제/applicationContext.xml.md",
+    "3 Resource/Spring/Spring Exam/Spring 예제/JDBC/JDBC.md",
+    "3 Resource/Spring/Spring Exam/Spring 예제/JDBC/JDBC XML 사용.md",
+    "3 Resource/Spring/Spring Exam/Spring 예제/JDBC/JDBC Annotation 사용.md",
+    "3 Resource/Spring/Spring Exam/Spring 예제/기본 예제/어노테이션 사용.md",
+    "2. Area/dddd.md",
     "1. Project/3. 일정 미완료/dd3.md",
     "1. Project/2. 일정 완료/dd2.md",
     "1. Project/1. 개인 업무/ddd.md",
     "3 Resource/Spring/Spring Exam/Spring 예제/JDBC/db.properties.md",
-    "3 Resource/Spring/Spring Exam/Spring 예제/JDBC/JDBC.md",
-    "3 Resource/Spring/Spring Resource/Spring이란.md",
-    "3 Resource/Spring/Spring.md",
-    "3 Resource/Spring/Spring Exam/Spring 예제/기본 예제/properties 사용.md",
-    "3 Resource/Spring/Spring Exam/Spring 예제/JDBC/JDBC XML 사용.md",
-    "3 Resource/Spring/Spring Exam/Spring 예제/Spring 예제.md",
-    "3 Resource/Spring/Spring Resource/Bootstrap.md",
-    "3 Resource/Spring/Spring Exam/Spring MVC 예제/Spring MVC 예제.md",
-    "3 Resource/Spring/Spring Exam/Spring MVC 예제/JSON DI 사용.md",
     "Attached_File/Pasted image 20230921111419.png",
-    "3 Resource/Spring/Spring Exam/Spring 예제/MyBatis/MyBatis-spring XML 사용.md",
-    "3 Resource/Spring/Spring Exam/Spring 예제/MyBatis/MyBatis-spring Annotation 사용.md",
-    "3 Resource/Spring/Spring Exam/Spring 예제/MyBatis/MyBatis-spring.md",
-    "3 Resource/Spring/Spring Exam/Spring 예제/기본 예제/Java file 사용.md",
-    "3 Resource/Spring/Spring Exam/Spring MVC 예제/applicationContext.xml.md",
-    "3 Resource/Spring/Spring Resource/Spring MVC/DispatcherServlet.md",
-    "3 Resource/Spring/Spring Resource/Spring MVC/Spring MVC.md",
-    "3 Resource/Spring/Spring Resource/Spring MVC/View.md",
-    "3 Resource/Spring/Spring Exam/Spring MVC 예제/controller.java.md",
-    "3 Resource/Spring/Spring Exam/Spring MVC 예제/web.xml.md",
-    "3 Resource/MVC/EL & JSTL.md",
     "3 Resource/Spring/Spring Resource/Spring MVC",
     "3 Resource/Spring/Spring Exam",
     "3 Resource/Spring/Spring Resource",
@@ -239,8 +241,6 @@
     "1. Project/3. 일정 미완료",
     "1. Project/2. 일정 완료",
     "1. Project/1. 개인 업무",
-    "3 Resource/Spring/Spring Exam/Spring 예제/MyBatis",
-    "3 Resource/Spring/Spring Exam/Spring 예제/기본 예제",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas"
