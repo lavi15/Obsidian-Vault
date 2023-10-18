@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
+                "file": "3 Resource/Spring/Spring.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
+                "file": "3 Resource/Spring/Spring.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
+                "file": "3 Resource/Spring/Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/Jenkins/JekinsResource/Ubuntu.md"
+                "file": "3 Resource/Spring/Spring.md"
               }
             }
           },
@@ -170,49 +170,51 @@
   },
   "active": "4695be6897470f25",
   "lastOpenFiles": [
+    "3 Resource/Spring/Spring Resource/Spring이란.md",
+    "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
+    "Attached_File/아카이브.zip",
+    "Attached_File/Pasted image 20231018123557.png",
+    "Attached_File/Pasted image 20231018123331.png",
+    "Attached_File/Pasted image 20231018123327.png",
+    "Attached_File/Pasted image 20231018123155.png",
+    "3 Resource/Jenkins/Jenkins.md",
+    "Attached_File/Pasted image 20231018122110.png",
+    "Attached_File/Pasted image 20231018121630.png",
+    "3 Resource/Spring/Spring Resource/Bootstrap.md",
+    "3 Resource/Spring/Spring.md",
+    "Attached_File/Pasted image 20231018104813.png",
+    "Attached_File/Pasted image 20231018104718.png",
+    "3 Resource/Kotlin/Kotlin Resource/상속/overloading.md",
+    "3 Resource/Kotlin/Kotlin Resource/상속/overriding.md",
+    "3 Resource/Kotlin/Kotlin Resource/상속/상속.md",
+    "3 Resource/Kotlin/Kotlin Resource/객체/객체.md",
+    "3 Resource/Kotlin/Kotlin Resource/연산자/복합대입 연산자.md",
+    "3 Resource/Kotlin/Kotlin Resource/연산자/대입연산자.md",
+    "3 Resource/Kotlin/Kotlin Resource/생성자/명시적 생성자/명시적 생성자.md",
+    "3 Resource/Kotlin/Kotlin Resource/생성자/기본 생성자/기본 생성자.md",
+    "3 Resource/Kotlin/Kotlin Resource/생성자/생성자.md",
+    "3 Resource/Kotlin/Kotlin Resource/메소드/메소드.md",
+    "3 Resource/Kotlin/Kotlin Resource/인터페이스/인터페이스.md",
+    "3 Resource/Kotlin/Kotlin Resource/인터페이스",
+    "3 Resource/Kotlin/Kotlin.md",
     "Attached_File/Pasted image 20231017175304.png",
     "Attached_File/Pasted image 20231017174225.png",
-    "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
-    "3 Resource/Jenkins/Jenkins.md",
     "3 Resource/Jenkins/JekinsResource",
     "3 Resource/Spring/Spring Resource/NCP_ObjectStorage 사용/NCP_ObjectStorage 사용.md",
     "3 Resource/Jenkins",
-    "3 Resource/Kotlin/Kotlin Resource/상속/overriding.md",
-    "3 Resource/Kotlin/Kotlin Resource/상속/상속.md",
-    "3 Resource/Kotlin/Kotlin Resource/상속/overloading.md",
-    "3 Resource/Kotlin/Kotlin Resource/생성자/기본 생성자/기본 생성자.md",
-    "3 Resource/Kotlin/Kotlin.md",
-    "3 Resource/Kotlin/Kotlin Resource/객체/객체.md",
     "3 Resource/Kotlin/Kotlin Resource/상속",
-    "3 Resource/Spring/Spring Resource/Bootstrap.md",
     "3 Resource/Spring/Spring Resource/NCP_ObjectStorage 사용",
-    "3 Resource/Spring/Spring.md",
     "3 Resource/Spring/Spring Resource/DAO 구현체 생략/DAO 구현체 생략.md",
-    "3 Resource/Spring/Spring Resource/Spring이란.md",
     "3 Resource/Kotlin/Kotlin Resource/객체",
     "3 Resource/Kotlin/Kotlin Resource/클래스/클래스.md",
-    "3 Resource/Kotlin/Kotlin Resource/메소드/메소드.md",
     "3 Resource/Kotlin/Kotlin Resource/반복문/for구문.md",
-    "3 Resource/Kotlin/Kotlin Resource/생성자/생성자.md",
     "4. Archive/dddddd.md",
-    "3 Resource/Kotlin/Kotlin Resource/생성자/명시적 생성자/명시적 생성자.md",
     "3 Resource/Kotlin/Kotlin Resource/생성자/명시적 생성자",
     "3 Resource/Kotlin/Kotlin Resource/생성자/기본 생성자",
     "3 Resource/Kotlin/Kotlin Resource",
-    "3 Resource/Kotlin/Kotlin Resource/생성자",
     "3 Resource/Kotlin/Kotlin Resource/반복문/반복문.md",
-    "3 Resource/Kotlin/Kotlin Resource/연산자/대입연산자.md",
-    "3 Resource/Kotlin/Kotlin Resource/연산자/복합대입 연산자.md",
     "3 Resource/Kotlin/Kotlin Resource/연산자/비교연산자.md",
     "3 Resource/Kotlin/Kotlin Resource/연산자/산술연산자.md",
-    "3 Resource/Kotlin/Kotlin Resource/자료형/자료형.md",
-    "3 Resource/Kotlin/Kotlin Resource/클래스",
-    "Attached_File/Pasted image 20230921111419.png",
-    "Attached_File/Pasted image 20230919110419.png",
-    "Attached_File/Pasted image 20230919110338.png",
-    "Attached_File/Pasted image 20230919110010.png",
-    "Attached_File/Pasted image 20230919105925.png",
-    "Attached_File/Pasted image 20230919105744.png",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas"
