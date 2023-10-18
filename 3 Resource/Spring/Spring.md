@@ -9,3 +9,6 @@
 
 [[Bootstrap]]
 
+[[DAO 구현체 생략]]
+
+[[NCP_ObjectStorage 사용]]
