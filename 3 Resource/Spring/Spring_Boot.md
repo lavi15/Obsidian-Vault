@@ -1,5 +1,5 @@
 
-[[Spring_Boot란?]]
+[[Spring_Boot란]]
 
 [[어노테이션]]
 
