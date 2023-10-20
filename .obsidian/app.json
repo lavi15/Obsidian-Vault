@@ -1,5 +1,6 @@
 {
   "showUnsupportedFiles": false,
   "attachmentFolderPath": "Attached_File",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
