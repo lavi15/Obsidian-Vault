@@ -1,5 +1,5 @@
 
-[[React란?]]
+[[React란]]
 
 [[3 Resource/React/React_Resource/연산자/연산자|연산자]]
 
