@@ -1,5 +1,5 @@
 
 [[Kotlin 기초]]
 
-[[Kotlin 심화]]
+[[Kotlin심화]]
 

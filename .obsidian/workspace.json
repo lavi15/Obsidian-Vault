@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resource/React/React Resource/react의 css 선언/react의 css 선언.md",
+                "file": "3 Resource/Spring/Spring_Exam/SpringMVC예제/Spring_MVC_예제.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/React/React Resource/react의 css 선언/react의 css 선언.md",
+                "file": "3 Resource/Spring/Spring_Exam/SpringMVC예제/Spring_MVC_예제.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/React/React Resource/react의 css 선언/react의 css 선언.md",
+                "file": "3 Resource/Spring/Spring_Exam/SpringMVC예제/Spring_MVC_예제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/React/React Resource/react의 css 선언/react의 css 선언.md"
+                "file": "3 Resource/Spring/Spring_Exam/SpringMVC예제/Spring_MVC_예제.md"
               }
             }
           },
@@ -168,49 +168,49 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4695be6897470f25",
+  "active": "f59471c906034cff",
   "lastOpenFiles": [
-    "3 Resource/React/React Resource/react의 매개변수 설정/react의 매개변수 설정.md",
+    "3 Resource/Spring/Spring_Exam/Spring예제/JDBC/JDBC_Annotation사용.md",
+    "3 Resource/Spring/Spring_Exam/Spring예제/Spring예제.md",
+    "3 Resource/React/React_Resource/Push,Concat/Push,Concat.md",
+    "3 Resource/React/React_Resource/매개변수_설정/매개변수_설정.md",
+    "3 Resource/Spring/Spring_Exam/Spring예제/JDBC/JDBC.md",
+    "3 Resource/Spring/Spring_Exam/Spring예제/기본예제/XML사용.md",
+    "3 Resource/Spring/Spring_Exam/Spring예제/기본예제/properties사용.md",
+    "3 Resource/Spring/Spring_Exam/Spring예제/기본예제/어노테이션사용.md",
+    "3 Resource/Spring/Spring_Boot_Resource/Spring_Boot란?.md",
+    "3 Resource/Spring/Spring_Resource/NCP_ObjectStorage사용/NCP_ObjectStorage사용.md",
+    "3 Resource/Linux/Linux.md",
+    "3 Resource/Kotlin/Kotlin_Resource/Kotlin_심화/Kotlin심화.md",
+    "3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/Kotlin 기초.md",
+    "3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/예외처리/예외처리.md",
+    "3 Resource/React/React_Resource/css_선언/css_선언.md",
+    "3 Resource/Kotlin/Kotlin Resource/무제 폴더",
+    "1. Project/1. 개인 업무/무제 폴더",
     "3 Resource/React/React.md",
-    "3 Resource/React/React Resource/react의 css 선언/react의 css 선언.md",
-    "3 Resource/React/React Resource/react의 매개변수 설정",
-    "3 Resource/React/React Resource/컴포넌트, Fragment/컴포넌트, Fragment.md",
-    "3 Resource/Linux/성능 분석/top.md",
+    "3 Resource/React/React_Resource/매개변수_설정",
+    "3 Resource/React/React_Resource/컴포넌트,Fragment/컴포넌트,Fragment.md",
+    "3 Resource/Linux/성능분석/top.md",
     "3 Resource/Linux/프로세스 상태",
     "Attached_File/Pasted image 20231020160657.png",
     "Pasted image 202310201602\u001f56.png.md",
     "Attached_File/Pasted image 20231020160504.png",
     "Attached_File/Pasted image 20231020160256.png",
-    "3 Resource/Linux/성능 분석/df.md",
-    "3 Resource/Linux/성능 분석/성능 분석.md",
-    "3 Resource/React/React Resource/react의 css 선언",
-    "3 Resource/React/React Resource/React란?/React란?.md",
-    "3 Resource/React/React Resource/컴포넌트, Fragment",
-    "3 Resource/React/React Resource/spread/spread.md",
-    "3 Resource/Linux/Linux.md",
-    "3 Resource/Spring/Spring Boot Exam/properties, yml/properties, yml.md",
-    "3 Resource/Spring/Spring Boot Exam/properties, yml",
-    "3 Resource/Spring/Spring Boot Exam/Spring Boot Exam.md",
-    "3 Resource/Spring/Spring Boot.md",
-    "3 Resource/Spring/Spring Boot Exam",
-    "3 Resource/Spring/Spring Boot Resource/Spring Boot란?.md",
-    "3 Resource/Spring/Spring Resource/폴더 경로 추가/폴더 경로 추가.md",
-    "3 Resource/Spring/Spring Resource/jsp 사용/jsp 사용.md",
-    "3 Resource/Spring/Spring Boot Resource/어노테이션/어노테이션.md",
-    "3 Resource/Spring/Spring Resource/폴더 경로 추가",
-    "3 Resource/Spring/Spring Resource/jsp 사용",
-    "3 Resource/Spring/Spring Resource/Spring이란.md",
-    "3 Resource/Spring/Spring.md",
-    "3 Resource/Kotlin/Kotlin Resource/Kotlin 심화/쓰레드, 코루틴/코루틴.md",
-    "3 Resource/Kotlin/Kotlin Resource/Kotlin 심화/쓰레드, 코루틴/쓰래드.md",
-    "3 Resource/Kotlin/Kotlin Resource/Kotlin 심화/Scope/Scope.md",
-    "3 Resource/Kotlin/Kotlin Resource/Kotlin 심화/확장함수/확장함수.md",
-    "3 Resource/Kotlin/Kotlin Resource/Kotlin 심화/동기, 비동기프로그래밍/동기, 비동기프로그래밍.md",
-    "3 Resource/Kotlin/Kotlin Resource/Kotlin 심화/2개 이상의 인스턴스 리턴/2개 이상의 인스턴스 리턴.md",
-    "3 Resource/Spring/Spring Boot Resource/Webapp 생성",
+    "3 Resource/Linux/성능분석/df.md",
+    "3 Resource/Linux/성능분석/성능분석.md",
+    "3 Resource/React/React_Resource/css_선언",
+    "3 Resource/React/React_Resource/React란?/React란?.md",
+    "3 Resource/React/React_Resource/컴포넌트,Fragment",
+    "3 Resource/React/React_Resource/spread/spread.md",
+    "3 Resource/Spring/Spring_Boot_Exam/properties,yml/properties,yml.md",
+    "3 Resource/Spring/Spring_Boot_Exam/properties,yml",
+    "3 Resource/Spring/Spring_Boot_Exam/Spring Boot Exam.md",
+    "3 Resource/Spring/Spring_Boot.md",
+    "3 Resource/Spring/Spring_Boot_Exam",
+    "3 Resource/Spring/Spring_Resource/폴더_경로_추가",
+    "3 Resource/Spring/Spring_Resource/jsp사용",
     "Attached_File/Pasted image 20231020101954.png",
     "Attached_File/Pasted image 20231020100715.png",
-    "3 Resource/Kotlin/Kotlin Resource/Kotlin 심화/코루틴",
     "Attached_File/Pasted image 20231019183448.png",
     "Attached_File/Pasted image 20231018123557.png",
     "Attached_File/Pasted image 20231018123331.png",

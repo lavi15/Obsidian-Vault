@@ -1,14 +1,14 @@
 
 [[Spring이란]]
 
-[[Spring 예제]]
+[[Spring예제]]
 
-[[Spring MVC]]
+[[SpringMVC]]
 
-[[Spring MVC 예제]]
+[[Spring_MVC_예제]]
 
 [[Bootstrap]]
 
-[[DAO 구현체 생략]]
+[[DAO_구현체_생략]]
 
-[[NCP_ObjectStorage 사용]]
+[[NCP_ObjectStorage사용]]
