@@ -15,4 +15,6 @@
 - D : uninterruptible sleep **(I/O)**
 - R : running **(CPU)**
 - S : sleeping **(작업하지 않는 상태)**
-- Z : zombie ()
+- Z : zombie **(부모 프로세스가 죽었음에도 살아있는 자식 프로세스)**
+
+ ※ Zombie 프로세스가 시스템 리소스를 사용하진 않으나 **PID 고갈**을 일으킬 수 있음

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resource/Spring/Spring_Boot_Resource/Spring_Boot란.md",
+                "file": "3 Resource/Linux/성능분석/tcmdump.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/Spring/Spring_Boot_Resource/Spring_Boot란.md",
+                "file": "3 Resource/Linux/성능분석/tcmdump.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/Spring/Spring_Boot_Resource/Spring_Boot란.md",
+                "file": "3 Resource/Linux/성능분석/tcmdump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/Spring/Spring_Boot_Resource/Spring_Boot란.md"
+                "file": "3 Resource/Linux/성능분석/tcmdump.md"
               }
             }
           },
@@ -170,6 +170,18 @@
   },
   "active": "4695be6897470f25",
   "lastOpenFiles": [
+    "Attached_File/Pasted image 20231023021817.png",
+    "3 Resource/Linux/성능분석/성능분석.md",
+    "3 Resource/Linux/성능분석/tcmdump.md",
+    "3 Resource/Linux/성능분석/무제 폴더",
+    "3 Resource/Linux/성능분석/netstat.md",
+    "Attached_File/Pasted image 20231022004500.png",
+    "Attached_File/Pasted image 20231020224459.png",
+    "Attached_File/Pasted image 20231020224138.png",
+    "Attached_File/Pasted image 20231020223001.png",
+    "3 Resource/Linux/성능분석/uptime.md",
+    "3 Resource/Linux/성능분석/top.md",
+    "3 Resource/Spring/Spring_Boot_Resource/Spring_Boot란.md",
     "3 Resource/React/React_Resource/React란/React란.md",
     "3 Resource/Spring/Spring_Exam/SpringMVC예제/Spring_MVC_예제.md",
     "3 Resource/Spring/Spring_Exam/Spring예제/JDBC/JDBC_Annotation사용.md",
@@ -180,7 +192,6 @@
     "3 Resource/Spring/Spring_Exam/Spring예제/기본예제/XML사용.md",
     "3 Resource/Spring/Spring_Exam/Spring예제/기본예제/properties사용.md",
     "3 Resource/Spring/Spring_Exam/Spring예제/기본예제/어노테이션사용.md",
-    "3 Resource/Spring/Spring_Boot_Resource/Spring_Boot란.md",
     "3 Resource/Spring/Spring_Resource/NCP_ObjectStorage사용/NCP_ObjectStorage사용.md",
     "3 Resource/Linux/Linux.md",
     "3 Resource/Kotlin/Kotlin_Resource/Kotlin_심화/Kotlin심화.md",
@@ -192,30 +203,19 @@
     "3 Resource/React/React.md",
     "3 Resource/React/React_Resource/매개변수_설정",
     "3 Resource/React/React_Resource/컴포넌트,Fragment/컴포넌트,Fragment.md",
-    "3 Resource/Linux/성능분석/top.md",
     "3 Resource/Linux/프로세스 상태",
     "Attached_File/Pasted image 20231020160657.png",
     "Pasted image 202310201602\u001f56.png.md",
     "Attached_File/Pasted image 20231020160504.png",
     "Attached_File/Pasted image 20231020160256.png",
-    "3 Resource/Linux/성능분석/df.md",
-    "3 Resource/Linux/성능분석/성능분석.md",
     "3 Resource/React/React_Resource/css_선언",
     "3 Resource/React/React_Resource/컴포넌트,Fragment",
-    "3 Resource/React/React_Resource/spread/spread.md",
-    "3 Resource/Spring/Spring_Boot_Exam/properties,yml/properties,yml.md",
     "3 Resource/Spring/Spring_Boot_Exam/properties,yml",
-    "3 Resource/Spring/Spring_Boot_Exam/Spring Boot Exam.md",
     "3 Resource/Spring/Spring_Boot_Exam",
     "3 Resource/Spring/Spring_Resource/폴더_경로_추가",
-    "3 Resource/Spring/Spring_Resource/jsp사용",
     "Attached_File/Pasted image 20231020101954.png",
     "Attached_File/Pasted image 20231020100715.png",
     "Attached_File/Pasted image 20231019183448.png",
-    "Attached_File/Pasted image 20231018123557.png",
-    "Attached_File/Pasted image 20231018123331.png",
-    "Attached_File/Pasted image 20231018123327.png",
-    "Attached_File/Pasted image 20231018123155.png",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas"
