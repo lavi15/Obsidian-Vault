@@ -15,8 +15,3 @@
 ![[Pasted image 20231005112504.png]]
 
 ✲ lscpu -e : cpu 수 확인 가능
-
-
-
-
-, dmesg, free, df, top, netstart

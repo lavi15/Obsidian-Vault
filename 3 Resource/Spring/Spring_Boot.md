@@ -8,3 +8,5 @@
 [[폴더_경로_추가]]
 
 [[Spring Boot Exam]]
+
+[[Spring_JPA]]
