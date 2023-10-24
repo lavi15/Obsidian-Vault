@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resource/Linux/장애사례/장애사례.md",
+                "file": "3 Resource/React/React_Resource/hook/hook.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/Linux/장애사례/장애사례.md",
+                "file": "3 Resource/React/React_Resource/hook/hook.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/Linux/장애사례/장애사례.md",
+                "file": "3 Resource/React/React_Resource/hook/hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/Linux/장애사례/장애사례.md"
+                "file": "3 Resource/React/React_Resource/hook/hook.md"
               }
             }
           },
@@ -170,14 +170,39 @@
   },
   "active": "4695be6897470f25",
   "lastOpenFiles": [
+    "3 Resource/React/React_Exam/useState_매개변수_합치기.md",
+    "3 Resource/React/React_Resource/hook/hook.md",
+    "3 Resource/React/React.md",
+    "3 Resource/React/React_Exam",
+    "3 Resource/Typescript/TypescriptResource/d.ts/d.ts.md",
+    "3 Resource/Typescript/Typescript.md",
+    "3 Resource/Typescript/TypescriptResource/tsconfig/tsconfig.md",
+    "3 Resource/Typescript/TypescriptResource/d.ts",
+    "3 Resource/Typescript/TypescriptResource/tsconfig",
+    "3 Resource/Algorithm/AlgorithmResource/자료구조,메모리구조/자료구조,메모리구조.md",
+    "3 Resource/Algorithm/AlgorithmResource/자료구조/무제 파일.md",
+    "3 Resource/Algorithm/Algorithm.md",
+    "3 Resource/Typescript/TypescriptResource/interface/interface.md",
+    "3 Resource/Typescript/TypescriptResource/OOP/OOP.md",
+    "3 Resource/Typescript/TypescriptResource/interface",
+    "3 Resource/Typescript/TypescriptResource/Typescript란/Typescript란.md",
+    "3 Resource/Typescript/TypescriptResource/속성/속성.md",
+    "3 Resource/Typescript/TypescriptResource/OOP",
+    "3 Resource/Typescript/TypescriptResource/다형성/다형성.md",
+    "3 Resource/Typescript/TypescriptResource/다형성",
+    "3 Resource/Typescript/TypescriptResource/속성",
+    "3 Resource/Typescript/TypescriptResource/명시적인_Type_선언/명시적인_Type_선언.md",
+    "3 Resource/Typescript/TypescriptResource/명시적인_Type_선언",
+    "3 Resource/Typescript/TypescriptResource/Typescript란",
+    "3 Resource/Typescript/TypescriptResource",
+    "3 Resource/Spring/Spring_Boot_Resource/Spring_JPA/Optional.md",
+    "3 Resource/Spring/Spring_Boot_Resource/Spring_JPA/Spring_JPA.md",
+    "3 Resource/Spring/Spring_Boot_Resource/어노테이션/어노테이션.md",
+    "3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/메소드/메소드.md",
     "Attached_File/Pasted image 20231023225859.png",
     "Attached_File/Pasted image 20231023225850.png",
     "Attached_File/Pasted image 20231023224313.png",
     "Attached_File/Pasted image 20231023224310.png",
-    "3 Resource/Linux/성능분석/tcmdump.md",
-    "3 Resource/Linux/성능분석/uptime.md",
-    "3 Resource/Linux/성능분석/top.md",
-    "3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/메소드/메소드.md",
     "3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/생성자/기본생성자/기본생성자.md",
     "3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/상속/overriding.md",
     "3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/상속/overloading.md",
@@ -185,37 +210,12 @@
     "3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/배열/배열.md",
     "3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/반복문/for구문.md",
     "3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/반복문/while구문.md",
-    "3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/반복문/반복문.md",
-    "3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/널_세이프티/널_세이프티.md",
-    "3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/객체/객체.md",
-    "3 Resource/React/React_Resource/hook/hook.md",
-    "3 Resource/React/React_Resource/css_선언/css_선언.md",
-    "3 Resource/React/React.md",
-    "3 Resource/React/React_Resource/hook",
-    "3 Resource/React/React_Resource/반복문/반복문.md",
-    "3 Resource/React/React_Resource/이벤트/이벤트.md",
-    "3 Resource/React/React_Resource/이벤트",
-    "3 Resource/React/React_Resource/React란/React란.md",
-    "3 Resource/Linux/장애사례/장애사례.md",
-    "3 Resource/Linux/성능분석/free.md",
-    "3 Resource/Linux/성능분석/netstat.md",
-    "3 Resource/Linux/성능분석/성능분석.md",
-    "3 Resource/Linux/성능분석/df.md",
-    "3 Resource/Spring/Spring_Boot_Exam/JPA_Exam",
-    "3 Resource/Spring/Spring_Boot_Resource/Spring_JPA",
-    "3 Resource/Linux/장애사례",
     "Attached_File/Pasted image 20231023021817.png",
     "Attached_File/Pasted image 20231022004500.png",
     "Attached_File/Pasted image 20231020224459.png",
     "Attached_File/Pasted image 20231020224138.png",
     "Attached_File/Pasted image 20231020223001.png",
-    "3 Resource/Kotlin/Kotlin Resource/무제 폴더",
-    "1. Project/1. 개인 업무/무제 폴더",
-    "3 Resource/React/React_Resource/매개변수_설정",
-    "3 Resource/Linux/프로세스 상태",
     "Attached_File/Pasted image 20231020160657.png",
-    "Attached_File/Pasted image 20231020160504.png",
-    "3 Resource/React/React_Resource/css_선언",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas"
