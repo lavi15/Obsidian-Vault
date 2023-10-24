@@ -14,3 +14,5 @@
 [[interface]]
 
 [[d.ts]]
+
+[[any_unknown_union]]
