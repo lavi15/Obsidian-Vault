@@ -21,3 +21,6 @@
 
 [[유틸리티타입]]
 
+[[SOLID]]
+
+https://radlohead.gitbook.io/typescript-deep-dive/getting-started
