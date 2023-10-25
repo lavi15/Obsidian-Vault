@@ -16,3 +16,8 @@
 [[d.ts]]
 
 [[any_unknown_union]]
+
+[[enum,object_literal]]
+
+[[유틸리티타입]]
+

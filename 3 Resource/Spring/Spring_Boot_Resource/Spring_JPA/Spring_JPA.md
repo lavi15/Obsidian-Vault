@@ -23,3 +23,9 @@
 - JpaRepository에 대한 설정정보를 자동적으로 로딩하고 Repository 빈을 등록하는 역할
 
 [[Optional]]
+
+[[JPA_쿼리_메소드]]
+
+[[JPA_쿼리_예제]]
+
+[[JPA_쿼리_어노테이션]]
