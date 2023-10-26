@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resource/Algorithm/AlgorithmResource/시간복잡도/시간복잡도.md",
+                "file": "3 Resource/Algorithm/AlgorithmResource/배열,연결리스트/배열,연결리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/Algorithm/AlgorithmResource/시간복잡도/시간복잡도.md",
+                "file": "3 Resource/Algorithm/AlgorithmResource/배열,연결리스트/배열,연결리스트.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/Algorithm/AlgorithmResource/시간복잡도/시간복잡도.md",
+                "file": "3 Resource/Algorithm/AlgorithmResource/배열,연결리스트/배열,연결리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/Algorithm/AlgorithmResource/시간복잡도/시간복잡도.md"
+                "file": "3 Resource/Algorithm/AlgorithmResource/배열,연결리스트/배열,연결리스트.md"
               }
             }
           },
@@ -170,13 +170,25 @@
   },
   "active": "4695be6897470f25",
   "lastOpenFiles": [
+    "Attached_File/Pasted image 20231026230544.png",
+    "Attached_File/Pasted image 20231026230528.png",
+    "Attached_File/Pasted image 20231026225822.png",
+    "Attached_File/Pasted image 20231026225507.png",
+    "3 Resource/Algorithm/AlgorithmResource/무제 폴더",
+    "3 Resource/Algorithm/AlgorithmResource/twoPointer/twoPointer.md",
+    "3 Resource/Algorithm/Algorithm.md",
+    "3 Resource/Algorithm/AlgorithmResource/twoPointer",
+    "3 Resource/Algorithm/AlgorithmResource/twoPointer",
+    "3 Resource/Algorithm/AlgorithmResource/배열,연결리스트/배열,연결리스트.md",
+    "Attached_File/Pasted image 20231026220941.png",
+    "3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/배열/배열.md",
+    "3 Resource/Algorithm/AlgorithmResource/시간복잡도/시간복잡도.md",
+    "3 Resource/Algorithm/AlgorithmResource/배열,연결리스트",
     "3 Resource/Algorithm/AlgorithmResource/메모리구조/메모리구조.md",
     "3 Resource/React/React_Resource/hook/hook.md",
     "3 Resource/React/React_Resource/동기,비동기/동기,비동기.md",
     "3 Resource/React/React.md",
-    "3 Resource/Algorithm/AlgorithmResource/시간복잡도/시간복잡도.md",
     "3 Resource/React/React_Resource/동기,비동기",
-    "3 Resource/Algorithm/Algorithm.md",
     "3 Resource/Algorithm/AlgorithmResource/시간복잡도/무제 폴더",
     "3 Resource/Algorithm/AlgorithmResource/시간복잡도",
     "3 Resource/React/React_Resource/웹스토리지/웹스토리지.md",
@@ -190,32 +202,20 @@
     "3 Resource/Spring/Spring_Boot_Exam/JPA_Exam/JPA_쿼리_어노테이션_예제.md",
     "3 Resource/Spring/Spring_Boot_Resource/Spring_JPA/JPA_쿼리_어노테이션.md",
     "3 Resource/Spring/Spring_Boot_Resource/Spring_JPA/JPA_쿼리_메소드.md",
-    "3 Resource/Spring/Spring_Boot_Resource/Spring_JPA/JPA_쿼리_어노테이션",
     "3 Resource/Spring/Spring_Boot_Exam/JPA_Exam/JPA_Exam.md",
-    "3 Resource/Spring/Spring_Boot_Exam/JPA_Exam/JPA_쿼리_메소드_예제",
     "3 Resource/Spring/Spring_Boot_Resource/Spring_JPA/Optional.md",
     "3 Resource/Typescript/TypescriptResource/enum,object_literal/enum,object_literal.md",
     "Attached_File/Pasted image 20231025102325.png",
     "3 Resource/Typescript/Typescript.md",
     "3 Resource/Typescript/TypescriptResource/유틸리티타입/유틸리티타입.md",
-    "3 Resource/Typescript/TypescriptResource/enum,object_literal",
-    "3 Resource/Typescript/TypescriptResource/유틸리티타입",
     "3 Resource/Typescript/TypescriptResource/any_unknown_union/any_unknown_union.md",
     "3 Resource/React/React_Exam/useState_매개변수_합치기.md",
     "3 Resource/Typescript/TypescriptResource/d.ts/d.ts.md",
-    "3 Resource/Typescript/TypescriptResource/tsconfig/tsconfig.md",
-    "3 Resource/Algorithm/AlgorithmResource/자료구조/무제 파일.md",
-    "3 Resource/Typescript/TypescriptResource/interface/interface.md",
-    "3 Resource/Typescript/TypescriptResource/OOP/OOP.md",
     "Attached_File/Pasted image 20231023225859.png",
     "Attached_File/Pasted image 20231023225850.png",
     "Attached_File/Pasted image 20231023224313.png",
     "Attached_File/Pasted image 20231023224310.png",
     "Attached_File/Pasted image 20231023021817.png",
-    "Attached_File/Pasted image 20231022004500.png",
-    "Attached_File/Pasted image 20231020224459.png",
-    "Attached_File/Pasted image 20231020224138.png",
-    "Attached_File/Pasted image 20231020223001.png",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas"

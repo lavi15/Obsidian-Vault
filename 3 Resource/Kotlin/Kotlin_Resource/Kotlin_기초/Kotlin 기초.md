@@ -27,7 +27,7 @@
 
 [[지연초기화]]
 
-[[배열]]
+[[3 Resource/Kotlin/Kotlin_Resource/Kotlin_기초/배열/배열]]
 
 [[컬렉션]]
 
