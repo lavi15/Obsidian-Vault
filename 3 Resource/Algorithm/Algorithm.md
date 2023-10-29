@@ -3,6 +3,8 @@
 
 [[시간복잡도]]
 
-[[배열,연결리스트|배열,연결리스트]]
+[[list|list]]
 
 [[twoPointer]]
+
+[[Queue,Stack]]

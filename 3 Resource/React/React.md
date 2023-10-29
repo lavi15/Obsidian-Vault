@@ -1,4 +1,6 @@
 
+[[React_Exam]]
+
 [[React란]]
 
 [[3 Resource/React/React_Resource/연산자/연산자|연산자]]
@@ -21,7 +23,7 @@
 
 [[이벤트]]
 
-[[hook]]
+[[hooks]]
 
 [[이미지소스]]
 

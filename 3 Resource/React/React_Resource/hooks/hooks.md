@@ -131,3 +131,15 @@ const Test03 = () => {
   
 export default Test03;
 ```
+
+
+## useReducer
+- 컴포넌트와 상태 업데이트 로직을 분리하여 컴포넌트 외부에서도 상태 관리 가능
+- **현재 컴포넌트가 아닌 다른 곳에 state를 저장**하고 싶을 때 사용
+```typescript
+const [state, dispatch] = useReducer(reducer, initialState);
+//state : 현재 상태 
+//dispatch : action을 발생시키는 함수 
+//reducer : state와 action를 받아 새로운 state를 반환하는 함수 
+//initialState : 초기값
+```
