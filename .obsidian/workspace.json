@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/burrow.md",
+                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/burrow.md",
+                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/burrow.md",
+                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/burrow.md"
+                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md"
               }
             }
           },
@@ -170,13 +170,17 @@
   },
   "active": "4695be6897470f25",
   "lastOpenFiles": [
-    "3 Resource/Kafaka/Kafka.md",
-    "3 Resource/Kafaka/Kafka_Resource/burrow.md",
+    "3 Resource/Kafaka/Kafka_Resource/레코드.md",
     "3 Resource/Kafaka/Kafka_Resource/컨슈머_랙.md",
+    "3 Resource/Kafaka/Kafka_Resource/메타데이터.md",
+    "3 Resource/Kafaka/Kafka.md",
+    "3 Resource/Kafaka/Kafka_Resource/Topic.md",
+    "3 Resource/Kafaka/Kafka_Resource/Partitioner.md",
+    "3 Resource/Kafaka/Kafka_Resource/burrow.md",
+    "3 Resource/Kafaka/Kafka_Resource/broker,replication,ISR.md",
+    "Attached_File/Pasted image 20231030230338.png",
     "Attached_File/Pasted image 20231029213851.png",
     "Attached_File/Pasted image 20231029213649.png",
-    "3 Resource/Kafaka/Kafka_Resource/Partitioner.md",
-    "3 Resource/Kafaka/Kafka_Resource/broker,replication,ISR.md",
     "Attached_File/Pasted image 20231029211848.png",
     "3 Resource/Kafaka/Kafka_Resource",
     "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/EK_Resource/플렛폼_타입_지양.md",
@@ -210,12 +214,8 @@
     "3 Resource/Algorithm/AlgorithmResource/list",
     "3 Resource/Algorithm/AlgorithmResource/twoPointer/twoPointer.md",
     "3 Resource/Algorithm/AlgorithmResource/twoPointer",
-    "3 Resource/Algorithm/AlgorithmResource/메모리구조/메모리구조.md",
     "3 Resource/React/React_Resource/동기,비동기",
     "3 Resource/Algorithm/AlgorithmResource/시간복잡도/무제 폴더",
-    "3 Resource/React/React_Resource/웹스토리지/웹스토리지.md",
-    "3 Resource/React/React_Resource/이미지소스/이미지소스.md",
-    "Attached_File/Pasted image 20231025102325.png",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas"
