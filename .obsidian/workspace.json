@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "5e0fd744e0c091b3",
+    "id": "113083c9e3e1a41c",
     "type": "split",
     "children": [
       {
-        "id": "348195e87058b642",
+        "id": "d66846b8f5872b91",
         "type": "tabs",
         "children": [
           {
-            "id": "4695be6897470f25",
+            "id": "e01db77082d821fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md",
+                "file": "3 Resource/Kafaka/Kafka_Resource/메타데이터.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "449a108412d1bef0",
+    "id": "eff4002afba1ab6d",
     "type": "split",
     "children": [
       {
-        "id": "339cc26402c24f70",
+        "id": "0dd4fa31da350ddc",
         "type": "tabs",
         "children": [
           {
-            "id": "f59471c906034cff",
+            "id": "951f61fe5103b7dd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "270d244e74512a76",
+            "id": "eeb179e66612e34b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "7a61546cd0f13d7c",
+            "id": "f7db400980ba2617",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,21 +72,29 @@
     "width": 300
   },
   "right": {
-    "id": "7fbb15fe2676e349",
+    "id": "57cfd1ff88271fd4",
     "type": "split",
     "children": [
       {
-        "id": "9770bd8c675cebfa",
+        "id": "9f46ad3d85baf4cb",
         "type": "tabs",
         "children": [
           {
-            "id": "535746a640a61c35",
+            "id": "535c34be55091359",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4da5492189e58fb4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md",
-                "collapseAll": true,
+                "file": "3 Resource/Kafaka/Kafka_Resource/메타데이터.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,19 +105,19 @@
             }
           },
           {
-            "id": "8d406fce712d7760",
+            "id": "b98fb12bc1b185d8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md",
+                "file": "3 Resource/Kafaka/Kafka_Resource/메타데이터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f8f7152a74fed217",
+            "id": "d2a78a94e0ff2598",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,104 +128,44 @@
             }
           },
           {
-            "id": "d786e4aaee8a9b3d",
+            "id": "f581875b2e4ba0bf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md"
+                "file": "3 Resource/Kafaka/Kafka_Resource/메타데이터.md"
               }
             }
-          },
-          {
-            "id": "79a0a69673605278",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ed6e54e04c970f72",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4695be6897470f25",
+  "active": "e01db77082d821fd",
   "lastOpenFiles": [
-    "3 Resource/Kafaka/Kafka_Resource/레코드.md",
+    "3 Resource/Kafaka/Kafka_Resource/세그먼트_삭제_주기.md",
     "3 Resource/Kafaka/Kafka_Resource/컨슈머_랙.md",
-    "3 Resource/Kafaka/Kafka_Resource/메타데이터.md",
-    "3 Resource/Kafaka/Kafka.md",
-    "3 Resource/Kafaka/Kafka_Resource/Topic.md",
-    "3 Resource/Kafaka/Kafka_Resource/Partitioner.md",
-    "3 Resource/Kafaka/Kafka_Resource/burrow.md",
     "3 Resource/Kafaka/Kafka_Resource/broker,replication,ISR.md",
-    "Attached_File/Pasted image 20231030230338.png",
-    "Attached_File/Pasted image 20231029213851.png",
-    "Attached_File/Pasted image 20231029213649.png",
-    "Attached_File/Pasted image 20231029211848.png",
-    "3 Resource/Kafaka/Kafka_Resource",
-    "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/EK_Resource/플렛폼_타입_지양.md",
-    "3 Resource/Kafaka",
-    "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/Effective_Kotlin.md",
-    "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/EK_Resource/변수의_scope.md",
-    "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/EK_Resource/immutable_객체_활용.md",
-    "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/EK_Resource",
-    "3 Resource/Kotlin/Kotlin.md",
-    "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin",
-    "3 Resource/Algorithm/AlgorithmResource/Queue,Stack/Queue,Stack.md",
-    "Attached_File/Pasted image 20231027135641.png",
-    "3 Resource/Algorithm/AlgorithmResource/Queue,Stack",
-    "3 Resource/Algorithm/Algorithm.md",
-    "3 Resource/Algorithm/AlgorithmResource/list/list.md",
-    "3 Resource/React/React_Exam/hookd_Exam/useReducer_Exam.md",
-    "3 Resource/React/React_Exam/hookd_Exam/hooks_Exam.md",
-    "3 Resource/React/React_Exam/React_Exam.md",
-    "3 Resource/React/React.md",
-    "3 Resource/React/React_Exam/hookd_Exam/useState_매개변수_합치기.md",
-    "3 Resource/React/React_Resource/동기,비동기/동기,비동기.md",
-    "3 Resource/React/React_Exam/hookd_Exam",
-    "3 Resource/React/React_Resource/hooks/hooks.md",
-    "3 Resource/Intellij/Intellij_명령어.md",
-    "3 Resource/Algorithm/AlgorithmResource/시간복잡도/시간복잡도.md",
-    "Attached_File/Pasted image 20231026230544.png",
-    "Attached_File/Pasted image 20231026230528.png",
-    "Attached_File/Pasted image 20231026225822.png",
-    "Attached_File/Pasted image 20231026225507.png",
-    "Attached_File/Pasted image 20231026220941.png",
-    "3 Resource/Algorithm/AlgorithmResource/list",
-    "3 Resource/Algorithm/AlgorithmResource/twoPointer/twoPointer.md",
-    "3 Resource/Algorithm/AlgorithmResource/twoPointer",
-    "3 Resource/React/React_Resource/동기,비동기",
-    "3 Resource/Algorithm/AlgorithmResource/시간복잡도/무제 폴더",
-    "무제 파일.canvas",
-    "무제 파일 2.canvas",
-    "무제 파일 1.canvas"
+    "3 Resource/Kafaka/Kafka_Resource/burrow.md",
+    "3 Resource/Kafaka/Kafka_Resource/Partitioner.md",
+    "3 Resource/Kafaka/Kafka_Resource/Topic.md"
   ]
 }
