@@ -48,4 +48,16 @@ const Front = (props : FrontProps) => {
   
 export default Front;
 ```
-- Link - 클릭 시 바로 이동하는 로직 구현 시에 사용 용이 ex) 상품 리스트에서 상세 페이지 이동 시 - react-router-dom 에서 제공하는 Link 컴포넌트는 DOM 에서 a 태그로 변환이 된다. - a 태그와 Link 차이 a : 외부 프로젝트로 이동하는 경우 Link : 프로젝트 내에서 페이지 전환하는 경우 2. useNavigate - useNavigate 훅을 실행하면 페이지 이동을 할 수 있게 해주는 함수를 반환한다. 반환하는 함수를 navigate라는 변수에 저장 후 navigate의 인자로 설정한 path 값을 넘겨주면 해당 경로로 이동할 수 있다. - 페이지 전환 시 추가로 처리해야 하는 로직이 있으면 useNavigate 사용 ex) 로그인 버튼 클릭 시 회원가입 되어 있는 사용자 -> Main 페이지로 이동 회원가입이 되어 있지 않은 사용자 -> SignUp 페이지로 이동 Index Routes - Route 에 들어가는 index 라는 값은 default child routes 라고 생각하면 된다 - 부모에 여러 개의 자식 route 있는 경우 부모 경로에서 + '/' 인 경우 설정
+
+
+- Link - 클릭 시 바로 이동하는 로직 구현 시에 사용 용이 
+- ex) 상품 리스트에서 상세 페이지 이동 시 - react-router-dom 에서 제공하는 Link 컴포넌트는 DOM 에서 a 태그로 변환
+- useNavigate - useNavigate 훅을 실행하면 페이지 이동을 할 수 있게 해주는 함수를 반환
+- 반환하는 함수를 navigate라는 변수에 저장 후 navigate의 인자로 설정한 path 값을 넘겨주면 해당 경로로 이동 가능
+- 페이지 전환 시 추가로 처리해야 하는 로직이 있으면 useNavigate 사용 
+- ex) 로그인 버튼 클릭 시 회원가입 되어 있는 사용자 -> Main 페이지로 이동 회원가입이 되어 있지 않은 사용자 -> SignUp 페이지로 이동 Index Routes - Route 에 들어가는 index 라는 값은 default child routes 취급
+- 부모에 여러 개의 자식 route 있는 경우 부모 경로에서 + '/' 인 경우 설정
+
+**a 태그와 Link 차이** 
+- a : 외부 프로젝트로 이동하는 경우 
+- Link : 프로젝트 내에서 페이지 전환하는 경우 
