@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md",
+                "file": "3 Resource/Kafaka/Kafka_Resource/producer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md",
+                "file": "3 Resource/Kafaka/Kafka_Resource/producer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md",
+                "file": "3 Resource/Kafaka/Kafka_Resource/producer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md"
+                "file": "3 Resource/Kafaka/Kafka_Resource/producer.md"
               }
             }
           },
@@ -170,11 +170,15 @@
   },
   "active": "4695be6897470f25",
   "lastOpenFiles": [
+    "Attached_File/Pasted image 20231101230228.png",
+    "Attached_File/Pasted image 20231101230128.png",
+    "Attached_File/Pasted image 20231101230115.png",
     "3 Resource/Kafaka/Kafka.md",
+    "3 Resource/Kafaka/Kafka_Resource/producer.md",
+    "3 Resource/Kafaka/Kafka_Resource/Topic.md",
     "3 Resource/Kafaka/Kafka_Resource/burrow.md",
     "3 Resource/Kafaka/Kafka_Resource/Partitioner.md",
     "3 Resource/Kafaka/Kafka_Resource/kafka_명령어.md",
-    "3 Resource/Kafaka/Kafka_Resource/Topic.md",
     "3 Resource/Kafaka/Kafka_Resource/broker,replication,ISR.md",
     "3 Resource/Kafaka/Kafka_Resource/컨슈머_랙.md",
     "3 Resource/Kafaka/Kafka_Resource/클러스터.md",
@@ -204,12 +208,8 @@
     "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/EK_Resource/플렛폼_타입_지양.md",
     "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/EK_Resource/immutable_객체_활용.md",
     "3 Resource/React/React_Resource/동기,비동기/동기,비동기.md",
-    "3 Resource/React/React_Resource/이미지소스/이미지소스.md",
-    "3 Resource/React/React_Exam/React_Exam.md",
     "3 Resource/React/React_Resource/Router/무제 폴더",
     "3 Resource/React/React_Resource/Router",
-    "Attached_File/Pasted image 20231029213851.png",
-    "Attached_File/Pasted image 20231029213649.png",
     "3 Resource/Kafaka/Kafka_Resource",
     "3 Resource/Kafaka",
     "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/EK_Resource",
