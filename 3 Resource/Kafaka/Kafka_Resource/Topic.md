@@ -28,3 +28,15 @@
   (prod.marketing-team.sms-platform.json)
 - <프로젝트명>.<서비스명>.<환경>.<이벤트명>
   (commerce.payment.prd.notification)
+
+
+## Topic을 생성하는 2가지 방법
+- kafka-topics.sh을 이용한 방법
+```linux
+bin/kafka-topics.sh --create \
+--bootstrap-server my-kafka:9092 \
+--topic hello.kafka
+```
+
+- 컨슈머, 프로듀서가 브로커에 생성되지 않은 토픽에 대해서 데이터를 요청할 때
+ (autoCreate 옵션이 필요, 브로커 기본 옵션으로 생성)

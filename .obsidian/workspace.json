@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_명령어.md",
+                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_명령어.md",
+                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_명령어.md",
+                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_명령어.md"
+                "file": "3 Resource/Kafaka/Kafka_Resource/Topic.md"
               }
             }
           },
@@ -170,32 +170,36 @@
   },
   "active": "4695be6897470f25",
   "lastOpenFiles": [
+    "3 Resource/Kafaka/Kafka.md",
+    "3 Resource/Kafaka/Kafka_Resource/burrow.md",
+    "3 Resource/Kafaka/Kafka_Resource/Partitioner.md",
+    "3 Resource/Kafaka/Kafka_Resource/kafka_명령어.md",
+    "3 Resource/Kafaka/Kafka_Resource/Topic.md",
+    "3 Resource/Kafaka/Kafka_Resource/broker,replication,ISR.md",
+    "3 Resource/Kafaka/Kafka_Resource/컨슈머_랙.md",
+    "3 Resource/Kafaka/Kafka_Resource/클러스터.md",
+    "3 Resource/React/React_Resource/hooks/hooks.md",
+    "3 Resource/React/React_Resource/연산자/연산자.md",
+    "3 Resource/React/React_Resource/비구조할당/비구조할당.md",
+    "3 Resource/React/React_Resource/매개변수_설정/매개변수_설정.md",
+    "3 Resource/React/React_Resource/Rest_API.md",
+    "3 Resource/React/React.md",
     "Attached_File/Pasted image 20231031155922.png",
     "무제 파일.canvas",
-    "3 Resource/Kafaka/Kafka_Resource/kafka_명령어.md",
     "2023-10-31.md",
     "3 Resource/React/React_Resource/Router/Router.md",
-    "3 Resource/React/React_Resource/hooks/hooks.md",
-    "3 Resource/Kafaka/Kafka_Resource/클러스터.md",
     "Attached_File/Pasted image 20231031110536.png",
-    "3 Resource/Kafaka/Kafka.md",
     "3 Resource/Kafaka/Kafka_Resource/클러스터",
-    "3 Resource/React/React.md",
-    "3 Resource/Kafaka/Kafka_Resource/Topic.md",
     "3 Resource/Kafaka/Kafka_Resource/세그먼트_삭제_주기.md",
     "Attached_File/Pasted image 20231030230338.png",
     "3 Resource/Kafaka/Kafka_Resource/메타데이터.md",
     "3 Resource/Kafaka/Kafka_Resource/레코드.md",
-    "3 Resource/Kafaka/Kafka_Resource/broker,replication,ISR.md",
     "3 Resource/Kafaka/Kafka_Resource/람다_아키텍쳐.md",
     "Attached_File/Pasted image 20231030140003.png",
     "Attached_File/Pasted image 20231030135949.png",
     "Attached_File/Pasted image 20231030135806.png",
     "Attached_File/Pasted image 20231030135524.png",
     "Attached_File/Pasted image 20231030135004.png",
-    "3 Resource/Kafaka/Kafka_Resource/Partitioner.md",
-    "3 Resource/Kafaka/Kafka_Resource/burrow.md",
-    "3 Resource/Kafaka/Kafka_Resource/컨슈머_랙.md",
     "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/EK_Resource/변수의_scope.md",
     "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/EK_Resource/플렛폼_타입_지양.md",
     "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/EK_Resource/immutable_객체_활용.md",
@@ -206,14 +210,10 @@
     "3 Resource/React/React_Resource/Router",
     "Attached_File/Pasted image 20231029213851.png",
     "Attached_File/Pasted image 20231029213649.png",
-    "Attached_File/Pasted image 20231029211848.png",
     "3 Resource/Kafaka/Kafka_Resource",
     "3 Resource/Kafaka",
-    "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/Effective_Kotlin.md",
     "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/EK_Resource",
-    "3 Resource/Kotlin/Kotlin.md",
     "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin",
-    "3 Resource/Algorithm/AlgorithmResource/Queue,Stack/Queue,Stack.md",
     "3 Resource/Algorithm/AlgorithmResource/Queue,Stack",
     "3 Resource/React/React_Exam/hookd_Exam",
     "3 Resource/Algorithm/AlgorithmResource/list",

@@ -116,3 +116,87 @@ bin/kafka-console-consumer.sh \
 --topic hello.kafka \
 --group hello-group --from-beginning
 ```
+
+## kafka-consumer-groups.sh
+- 컨슈머 동작시 group 옵션을 사용하면 group 생성
+- kafka-console-groups.sh는 생성된 group들을 확인 가능 
+```linux
+//생성된 group들 확인
+bin/kafka-consumer-groups.sh --bootstrap-server my-kafka:9092 --list
+
+//특정 group 확인
+bin/kafka-consumer-groups.sh --bootstrap-server my-kafka:9092 \
+--group hello-group --describe
+```
+
+### offset reset
+- 읽은 데이터의 offset을 다시 읽어야 할 때
+```linux
+//offset을 제일 최근인 처음부터 읽을 때
+bin/kafka-consumer-groups.sh --bootstrap-server my-kafka:9092 \
+--group hello-group --topic hello.kafka --reset-offsets \
+--to-earliest --execute
+```
+
+
+## kafka-producer-perf-test.sh
+- producer의 퍼포먼스를 측정시 사용
+- 브로커와 컨슈머간의 네트워크 체크시 사용
+```linux
+//1개의 throughput에 size 100인 10개의 record로 테스트 
+bin/kafka-producer-perf-test.sh \
+--producer-props bootstrap.servers=my-kafka:9092 \
+--topic hello.kafka \
+--num-records 10 \
+--throughput 1 \
+--record-size 100 \
+--print-metric
+```
+
+
+## kafka-reassign-partitions.sh
+- 리더 파티션들이 하나의 브로커에 몰릴시 사용
+- 리더 파티션과 팔로워 파티션을 브로커들에 적절히 분배
+- auto.leader.rebalance.enable의 기본값이 true로 기본적으로 재분배가 됨
+```json
+{
+	"partitions" : [
+		{
+			"topic" : "hello.kafka", "partition" : 0, "replicas" : [ 0 ]
+		}
+	], "version" : 1
+}
+```
+
+```linux
+bin/kafka-reassign-partitions.sh --bootstrap-server my-kafka:9092 \
+--reassignment-json-file partitions.json --execute
+```
+
+
+## kafka-delete-record.sh
+- offset 0부터 특정 offset까지 모든 record를 삭제하는 명령어
+- 아래는 offset 0부터 5까지 record 삭제
+```json
+{
+	"partitions" : [
+		{
+			"topic" : "hello.kafka", "partition" : 0, "offset" : 5
+		}
+	], "version" : 1
+}
+```
+
+```linux
+bin/kafka-delete-record.sh --bootstrap-server my-kafka:9092 \
+--offset-json-file delete.json 
+```
+
+
+## kafka-dump-log.sh
+- kafka의 데이터들이 정상적으로 offset과 timestamp를 가지고 저장되었는지 확인 가능 
+```linux
+bin/kafka-dump-log.sh \
+--files data/hello.kafka-0/00000000000000000000.log \
+--deep-iteration
+```
