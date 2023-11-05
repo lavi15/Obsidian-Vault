@@ -6,3 +6,11 @@
 [[Mock]]
 
 [[Test_Fixture]]
+
+[[ParameterizedTest]]
+
+[[DynamicTest]]
+
+[[학습테스트]]
+
+[[SpringRestDocs]]
