@@ -23,4 +23,8 @@
 
 [[kafka_Application]]
 
+[[consumer]]
+
+[[kafka_streams]]
+
 [[kafka_connect]]

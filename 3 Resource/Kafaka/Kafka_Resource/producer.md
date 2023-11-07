@@ -62,3 +62,17 @@
 - transactional.id
 	- producer가 record를 전송할 때 레코드를 트랜젝션 단위로 묶을지 여부 설정
           (기본값 : null)
+
+
+## 멱등성 producer
+- 데이터의 중복 적재를 막는 프로듀서
+- enable.idempotence true(acks=all)로 설정가능
+- 2.5.0은 default가 false이나 3.0.0부터 default가 true
+- 해당 옵션 사용시 acks가 all이 되므로 속도 저하 고려하여 사용 
+
+### 멱등성 producer의 동작
+- 기본 프로듀서와 달리 프로듀서 고유 ID(PID)와 시퀀스 넘버(SID)를 함께 전달
+- PID와 SID를 확인하여 중복 적재를 막음
+
+### 멱등성 producer의 한계
+- 프로듀서가 장애가 나면 PID가 바뀌어 중복 적재가 될수도 있음 

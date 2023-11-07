@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
+                "file": "3 Resource/Kafaka/Kafka.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
+                "file": "3 Resource/Kafaka/Kafka.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
+                "file": "3 Resource/Kafaka/Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md"
+                "file": "3 Resource/Kafaka/Kafka.md"
               }
             }
           },
@@ -170,12 +170,19 @@
   },
   "active": "4695be6897470f25",
   "lastOpenFiles": [
+    "kafka_Application.md",
+    "3 Resource/Kafaka/Kafka.md",
+    "3 Resource/Kafaka/Kafka_Resource/consumer.md",
+    "3 Resource/Kafaka/Kafka_Resource/kafka_streams.md",
+    "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
+    "3 Resource/Kafaka/Kafka_Resource/Topic.md",
+    "Attached_File/Pasted image 20231107171736.png",
+    "Attached_File/Pasted image 20231107171402.png",
+    "Attached_File/Pasted image 20231107170918.png",
+    "Attached_File/Pasted image 20231107162348.png",
+    "Attached_File/Pasted image 20231107145856.png",
     "Attached_File/Pasted image 20231107224700.png",
     "Attached_File/Pasted image 20231107222308.png",
-    "3 Resource/Kafaka/Kafka.md",
-    "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
-    "kafka_Application.md",
-    "3 Resource/Kafaka/Kafka_Resource/Topic.md",
     "3 Resource/Spring/Spring_Resource/Spring이란.md",
     "3 Resource/Spring/Spring.md",
     "3 Resource/Spring/Spring_Boot_Resource/Spring_Boot란.md",
@@ -201,16 +208,8 @@
     "3 Resource/Linux/기초",
     "Attached_File/Pasted image 20231101230228.png",
     "Attached_File/Pasted image 20231101230128.png",
-    "Attached_File/Pasted image 20231101230115.png",
-    "3 Resource/Kafaka/Kafka_Resource/burrow.md",
-    "3 Resource/Kafaka/Kafka_Resource/Partitioner.md",
-    "Attached_File/Pasted image 20231031155922.png",
     "무제 파일.canvas",
-    "Attached_File/Pasted image 20231031110536.png",
     "3 Resource/Kafaka/Kafka_Resource/클러스터",
-    "Attached_File/Pasted image 20231030230338.png",
-    "Attached_File/Pasted image 20231030140003.png",
-    "Attached_File/Pasted image 20231030135949.png",
     "3 Resource/React/React_Resource/Router/무제 폴더",
     "3 Resource/React/React_Resource/Router",
     "3 Resource/Kafaka/Kafka_Resource",
