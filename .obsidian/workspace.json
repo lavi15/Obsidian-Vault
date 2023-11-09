@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka.md",
+                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka.md",
+                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka.md",
+                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka.md"
+                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "4695be6897470f25",
   "lastOpenFiles": [
-    "kafka_Application.md",
     "3 Resource/Kafaka/Kafka.md",
+    "kafka_Application.md",
     "3 Resource/Kafaka/Kafka_Resource/consumer.md",
     "3 Resource/Kafaka/Kafka_Resource/kafka_streams.md",
     "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",

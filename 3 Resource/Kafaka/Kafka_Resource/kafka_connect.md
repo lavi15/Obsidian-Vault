@@ -7,6 +7,7 @@
 - **8083port**로 호출 가능하며 HTTP 메서드 기반 API 제공
 ![[Pasted image 20231107224700.png]]
 
+#### GUI : https://github.com/kakao/kafka-connect-web
 
 ### 컨버터 
 - 옵셔널한 설정으로 데이터를 처리하기 전에 스키마를 변경하도록 도와줌
