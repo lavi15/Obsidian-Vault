@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
+                "file": "2023-10-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
+                "file": "2023-10-31.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
+                "file": "2023-10-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md"
+                "file": "2023-10-31.md"
               }
             }
           },
@@ -168,47 +168,48 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4695be6897470f25",
+  "active": "f59471c906034cff",
   "lastOpenFiles": [
-    "3 Resource/Kafaka/Kafka.md",
-    "kafka_Application.md",
-    "3 Resource/Kafaka/Kafka_Resource/consumer.md",
+    "README.md",
+    "무제 파일.canvas",
+    "3 Resource/Jenkins/JekinsResource/spring,react.md",
+    "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
+    "3 Resource/Kafaka/Kafka_Resource/kafka_Application.md",
+    "3 Resource/Jenkins/Jenkins.md",
+    "3 Resource/React/React_Resource/hooks/hooks.md",
+    "2. Area/11.11특강.md",
+    "4. Archive/dddddd.md",
+    "3 Resource/TestCode/TestCode_Resource/ParameterizedTest.md",
+    "3 Resource/TestCode/TestCode.md",
+    "3 Resource/TestCode/TestCode_Resource/테스트코드란.md",
+    "3 Resource/TestCode/TestCode_Resource/학습테스트.md",
+    "3 Resource/TestCode/TestCode_Resource/DynamicTest.md",
+    "3 Resource/TestCode/TestCode_Resource/Mock.md",
+    "3 Resource/TestCode/TestCode_Resource/Spring_Boot_JPA_에서의_Test.md",
+    "3 Resource/TestCode/TestCode_Resource/SpringRestDocs.md",
+    "3 Resource/TestCode/TestCode_Resource/Test_Fixture.md",
+    "3 Resource/React/React_Resource/연산자/연산자.md",
     "3 Resource/Kafaka/Kafka_Resource/kafka_streams.md",
+    "Attached_File/Pasted image 20231107224700.png",
+    "Attached_File/Pasted image 20231107222308.png",
     "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
-    "3 Resource/Kafaka/Kafka_Resource/Topic.md",
     "Attached_File/Pasted image 20231107171736.png",
     "Attached_File/Pasted image 20231107171402.png",
     "Attached_File/Pasted image 20231107170918.png",
-    "Attached_File/Pasted image 20231107162348.png",
-    "Attached_File/Pasted image 20231107145856.png",
-    "Attached_File/Pasted image 20231107224700.png",
-    "Attached_File/Pasted image 20231107222308.png",
-    "3 Resource/Spring/Spring_Resource/Spring이란.md",
-    "3 Resource/Spring/Spring.md",
-    "3 Resource/Spring/Spring_Boot_Resource/Spring_Boot란.md",
-    "3 Resource/Spring/Spring_Boot.md",
-    "3 Resource/JAVA/Java.md",
-    "3 Resource/TestCode/TestCode_Resource/SpringRestDocs.md",
-    "3 Resource/TestCode/TestCode.md",
-    "3 Resource/TestCode/TestCode_Resource/Test_Fixture.md",
-    "3 Resource/TestCode/TestCode_Resource/학습테스트.md",
-    "3 Resource/TestCode/TestCode_Resource/DynamicTest.md",
-    "3 Resource/TestCode/TestCode_Resource/ParameterizedTest.md",
-    "3 Resource/TestCode/TestCode_Resource/Spring_Boot_JPA_에서의_Test.md",
+    "3 Resource/Kafaka/Kafka.md",
     "3 Resource/Kafaka/Kafka_Resource/producer.md",
+    "3 Resource/Kafaka/Kafka_Resource/컨슈머_랙.md",
+    "Attached_File/Pasted image 20231107162348.png",
+    "3 Resource/Kafaka/Kafka_Resource/consumer.md",
+    "Attached_File/Pasted image 20231107145856.png",
+    "3 Resource/Kafaka/Kafka_Resource/Topic.md",
+    "3 Resource/Kafaka/Kafka_Resource/kafka_명령어.md",
     "Attached_File/Pasted image 20231102141503.png",
-    "3 Resource/TestCode/TestCode_Resource/테스트코드란.md",
-    "3 Resource/TestCode/TestCode_Resource/Mock.md",
+    "3 Resource/Linux/기초",
     "3 Resource/TestCode/TestCode_Resource",
     "3 Resource/TestCode",
-    "3 Resource/Spring/Spring_Resource/LibraryFramewolk.md",
-    "3 Resource/Linux/기초/linux란.md",
-    "3 Resource/Linux/기초/linux_명령어1.md",
-    "3 Resource/Linux/기초/linux_기초.md",
-    "3 Resource/Linux/기초",
     "Attached_File/Pasted image 20231101230228.png",
     "Attached_File/Pasted image 20231101230128.png",
-    "무제 파일.canvas",
     "3 Resource/Kafaka/Kafka_Resource/클러스터",
     "3 Resource/React/React_Resource/Router/무제 폴더",
     "3 Resource/React/React_Resource/Router",
