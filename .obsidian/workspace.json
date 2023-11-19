@@ -11,12 +11,8 @@
             "id": "4695be6897470f25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md"
+                "file": "3 Resource/JPA/JPA_Resource/JPA란.md"
               }
             }
           },
@@ -168,13 +162,25 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4695be6897470f25",
+  "active": "f59471c906034cff",
   "lastOpenFiles": [
+    "3 Resource/JPA/JPA_Resource/JPA란.md",
+    "3 Resource/JPA/JPA_Resource",
+    "3 Resource/JPA/JPA.md",
+    "3 Resource/JPA",
+    "JPA/JPA_Resource/JPA란.md",
+    "JPA/JPA_Resource",
+    "JPA/JPA.md",
+    "JPA",
+    "Attached_File/Pasted image 20231117231111.png",
+    "Attached_File/Pasted image 20231117231049.png",
+    "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
+    "3 Resource/Jenkins/Jenkins.md",
+    "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
     "3 Resource/Kafaka/Kafka.md",
     "kafka_Application.md",
     "3 Resource/Kafaka/Kafka_Resource/consumer.md",
     "3 Resource/Kafaka/Kafka_Resource/kafka_streams.md",
-    "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
     "3 Resource/Kafaka/Kafka_Resource/Topic.md",
     "Attached_File/Pasted image 20231107171736.png",
     "Attached_File/Pasted image 20231107171402.png",
@@ -197,25 +203,13 @@
     "3 Resource/TestCode/TestCode_Resource/Spring_Boot_JPA_에서의_Test.md",
     "3 Resource/Kafaka/Kafka_Resource/producer.md",
     "Attached_File/Pasted image 20231102141503.png",
-    "3 Resource/TestCode/TestCode_Resource/테스트코드란.md",
-    "3 Resource/TestCode/TestCode_Resource/Mock.md",
     "3 Resource/TestCode/TestCode_Resource",
     "3 Resource/TestCode",
-    "3 Resource/Spring/Spring_Resource/LibraryFramewolk.md",
-    "3 Resource/Linux/기초/linux란.md",
-    "3 Resource/Linux/기초/linux_명령어1.md",
-    "3 Resource/Linux/기초/linux_기초.md",
     "3 Resource/Linux/기초",
-    "Attached_File/Pasted image 20231101230228.png",
-    "Attached_File/Pasted image 20231101230128.png",
     "무제 파일.canvas",
     "3 Resource/Kafaka/Kafka_Resource/클러스터",
     "3 Resource/React/React_Resource/Router/무제 폴더",
     "3 Resource/React/React_Resource/Router",
-    "3 Resource/Kafaka/Kafka_Resource",
-    "3 Resource/Kafaka",
-    "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/EK_Resource",
-    "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas"
   ]
