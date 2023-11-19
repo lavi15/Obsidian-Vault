@@ -11,8 +11,12 @@
             "id": "4695be6897470f25",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/JPA/JPA_Resource/JPA란.md"
+                "file": "3 Resource/Jenkins/JekinsResource/Ubuntu.md"
               }
             }
           },
@@ -162,8 +168,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f59471c906034cff",
+  "active": "4695be6897470f25",
   "lastOpenFiles": [
+    "3 Resource/Jenkins/Jenkins.md",
+    "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
     "3 Resource/JPA/JPA_Resource/JPA란.md",
     "3 Resource/JPA/JPA_Resource",
     "3 Resource/JPA/JPA.md",
@@ -174,8 +182,6 @@
     "JPA",
     "Attached_File/Pasted image 20231117231111.png",
     "Attached_File/Pasted image 20231117231049.png",
-    "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
-    "3 Resource/Jenkins/Jenkins.md",
     "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
     "3 Resource/Kafaka/Kafka.md",
     "kafka_Application.md",
