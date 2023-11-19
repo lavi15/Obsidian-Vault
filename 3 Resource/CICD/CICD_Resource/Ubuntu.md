@@ -18,8 +18,13 @@ docker rm a0cd6b6daab9 //container 삭제
 ```
 
 jenkins
+- jenkins image install
+```docker
+docker run -d -p 8080:8080 -p 50000:50000 --name docker-jenkins --restart=on-failure jenkins/jenkins:lts-jdk17
+```
+- jenkins container bash 접근
 ``` docker
-docker run -p 8080:8080 -p 50000:50000 --name docker-jenkins --restart=on-failure jenkins/jenkins:lts-jdk17  //jenkins download
+docker run -d -p 8080:8080 -p 50000:50000 --name docker-jenkins --restart=on-failure jenkins/jenkins:lts-jdk17  //jenkins container 생성 및 실행
 
 docker exec -it docker-jenkins bash  //jenkins 배쉬 접근
 

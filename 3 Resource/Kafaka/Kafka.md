@@ -1,4 +1,10 @@
 
+[[kafka_install]]
+
+[[kafka_명령어]]
+
+[[람다_아키텍쳐]]
+
 [[broker,replication,ISR]]
 
 [[Partitioner]]
@@ -12,8 +18,6 @@
 [[Topic]]
 
 [[메타데이터]]
-
-[[람다_아키텍쳐]]
 
 [[세그먼트_삭제_주기]]
 

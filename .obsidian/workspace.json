@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-31.md",
+                "file": "3 Resource/CICD/CICD_Resource/spring,react.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-31.md",
+                "file": "3 Resource/CICD/CICD_Resource/spring,react.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-31.md",
+                "file": "3 Resource/CICD/CICD_Resource/spring,react.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-31.md"
+                "file": "3 Resource/CICD/CICD_Resource/spring,react.md"
               }
             }
           },
@@ -168,55 +168,55 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f59471c906034cff",
+  "active": "4695be6897470f25",
   "lastOpenFiles": [
-    "README.md",
+    "3 Resource/CICD/CICD_Resource/docker_jenkins_setting.md",
+    "3 Resource/CICD/CICD_Resource/BE-CI.md",
+    "3 Resource/CICD/CICD_Resource/CD.md",
+    "3 Resource/CICD/CICD_Resource/spring,react.md",
+    "3 Resource/CICD/CICD_Resource/Ubuntu.md",
+    "3 Resource/CICD/CICD.md",
+    "3 Resource/Docker/Docker.md",
+    "3 Resource/Docker",
+    "3 Resource/CICD/CICD_Resource/FE-CI.md",
+    "2023-10-31.md",
     "무제 파일.canvas",
-    "3 Resource/Jenkins/JekinsResource/spring,react.md",
-    "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
-    "3 Resource/Kafaka/Kafka_Resource/kafka_Application.md",
-    "3 Resource/Jenkins/Jenkins.md",
-    "3 Resource/React/React_Resource/hooks/hooks.md",
-    "2. Area/11.11특강.md",
-    "4. Archive/dddddd.md",
-    "3 Resource/TestCode/TestCode_Resource/ParameterizedTest.md",
-    "3 Resource/TestCode/TestCode.md",
-    "3 Resource/TestCode/TestCode_Resource/테스트코드란.md",
-    "3 Resource/TestCode/TestCode_Resource/학습테스트.md",
-    "3 Resource/TestCode/TestCode_Resource/DynamicTest.md",
-    "3 Resource/TestCode/TestCode_Resource/Mock.md",
-    "3 Resource/TestCode/TestCode_Resource/Spring_Boot_JPA_에서의_Test.md",
-    "3 Resource/TestCode/TestCode_Resource/SpringRestDocs.md",
-    "3 Resource/TestCode/TestCode_Resource/Test_Fixture.md",
-    "3 Resource/React/React_Resource/연산자/연산자.md",
-    "3 Resource/Kafaka/Kafka_Resource/kafka_streams.md",
-    "Attached_File/Pasted image 20231107224700.png",
-    "Attached_File/Pasted image 20231107222308.png",
-    "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
-    "Attached_File/Pasted image 20231107171736.png",
-    "Attached_File/Pasted image 20231107171402.png",
-    "Attached_File/Pasted image 20231107170918.png",
-    "3 Resource/Kafaka/Kafka.md",
-    "3 Resource/Kafaka/Kafka_Resource/producer.md",
-    "3 Resource/Kafaka/Kafka_Resource/컨슈머_랙.md",
-    "Attached_File/Pasted image 20231107162348.png",
-    "3 Resource/Kafaka/Kafka_Resource/consumer.md",
-    "Attached_File/Pasted image 20231107145856.png",
-    "3 Resource/Kafaka/Kafka_Resource/Topic.md",
+    "Attached_File/Pasted image 20231116110306.png",
+    "Attached_File/Pasted image 20231116101525.png",
+    "Attached_File/Pasted image 20231116101252.png",
+    "Attached_File/Pasted image 20231116101227.png",
+    "3 Resource/Kafaka/Kafka_Resource/kafka_install.md",
     "3 Resource/Kafaka/Kafka_Resource/kafka_명령어.md",
-    "Attached_File/Pasted image 20231102141503.png",
+    "3 Resource/Kafaka/Kafka.md",
+    "3 Resource/Kafaka/Kafka_Resource/broker,replication,ISR.md",
+    "3 Resource/Kafaka/Kafka_Resource/Partitioner.md",
+    "3 Resource/Kafaka/Kafka_Resource/컨슈머_랙.md",
+    "3 Resource/Kafaka/Kafka_Resource/burrow.md",
+    "3 Resource/Kafaka/Kafka_Resource/레코드.md",
+    "3 Resource/Kafaka/Kafka_Resource/Topic.md",
+    "3 Resource/Kafaka/Kafka_Resource/메타데이터.md",
+    "3 Resource/Kafaka/Kafka_Resource/람다_아키텍쳐.md",
+    "3 Resource/Kafaka/Kafka_Resource/세그먼트_삭제_주기.md",
+    "3 Resource/Kafaka/Kafka_Resource/producer.md",
+    "3 Resource/Kafaka/Kafka_Resource/클러스터.md",
+    "3 Resource/Kafaka/Kafka_Resource/kafka_Application.md",
+    "3 Resource/MVC/EL&JSTL.md",
+    "Attached_File/Pasted image 20231115115939.png",
+    "Attached_File/Pasted image 20231115115921.png",
+    "Attached_File/Pasted image 20231115115732.png",
+    "Attached_File/Pasted image 20231115115702.png",
+    "Attached_File/Pasted image 20231115115700.png",
+    "Attached_File/Pasted image 20231115115616.png",
+    "README.md",
     "3 Resource/Linux/기초",
     "3 Resource/TestCode/TestCode_Resource",
     "3 Resource/TestCode",
-    "Attached_File/Pasted image 20231101230228.png",
-    "Attached_File/Pasted image 20231101230128.png",
     "3 Resource/Kafaka/Kafka_Resource/클러스터",
     "3 Resource/React/React_Resource/Router/무제 폴더",
     "3 Resource/React/React_Resource/Router",
     "3 Resource/Kafaka/Kafka_Resource",
     "3 Resource/Kafaka",
     "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin/EK_Resource",
-    "3 Resource/Kotlin/Kotlin_Resource/Effective_Kotlin",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas"
   ]

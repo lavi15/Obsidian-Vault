@@ -1,4 +1,0 @@
-
-[[Ubuntu]]
-
-[[spring,react]]
