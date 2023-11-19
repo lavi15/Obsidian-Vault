@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
+                "file": "3 Resource/CICD/CICD_Resource/spring,react.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
+                "file": "3 Resource/CICD/CICD_Resource/spring,react.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
+                "file": "3 Resource/CICD/CICD_Resource/spring,react.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/Jenkins/JekinsResource/Ubuntu.md"
+                "file": "3 Resource/CICD/CICD_Resource/spring,react.md"
               }
             }
           },
@@ -170,52 +170,52 @@
   },
   "active": "4695be6897470f25",
   "lastOpenFiles": [
-    "3 Resource/Jenkins/Jenkins.md",
-    "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
-    "3 Resource/JPA/JPA_Resource/JPA란.md",
-    "3 Resource/JPA/JPA_Resource",
+    "3 Resource/CICD/CICD_Resource/docker_jenkins_setting.md",
+    "3 Resource/CICD/CICD_Resource/CD.md",
+    "3 Resource/CICD/CICD_Resource/BE-CI.md",
+    "3 Resource/Docker/Docker.md",
     "3 Resource/JPA/JPA.md",
+    "3 Resource/JPA/JPA_Resource/JPA란.md",
+    "3 Resource/Jenkins/JekinsResource/Ubuntu.md",
+    "Attached_File/Pasted image 20231116110306.png",
+    "Attached_File/Pasted image 20231116101525.png",
+    "Attached_File/Pasted image 20231116101252.png",
+    "Attached_File/Pasted image 20231116101227.png",
+    "Attached_File/Pasted image 20231115115939.png",
+    "Attached_File/Pasted image 20231115115921.png",
+    "Attached_File/Pasted image 20231115115732.png",
+    "Attached_File/Pasted image 20231115115702.png",
+    "Attached_File/Pasted image 20231115115700.png",
+    "Attached_File/Pasted image 20231115115616.png",
+    "3 Resource/Kafaka/Kafka_Resource/kafka_install.md",
+    "3 Resource/Kafaka/Kafka_Resource/kafka_Application.md",
+    "3 Resource/Docker",
+    "3 Resource/CICD/CICD_Resource/Ubuntu.md",
+    "3 Resource/CICD/CICD_Resource/spring,react.md",
+    "3 Resource/CICD/CICD_Resource/FE-CI.md",
+    "3 Resource/CICD/CICD_Resource",
+    "3 Resource/CICD/CICD.md",
+    "3 Resource/CICD",
+    "2. Area/11.11특강.md",
+    "3 Resource/Jenkins/Jenkins.md",
+    "3 Resource/JPA/JPA_Resource",
     "3 Resource/JPA",
     "JPA/JPA_Resource/JPA란.md",
     "JPA/JPA_Resource",
     "JPA/JPA.md",
     "JPA",
-    "Attached_File/Pasted image 20231117231111.png",
-    "Attached_File/Pasted image 20231117231049.png",
     "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
     "3 Resource/Kafaka/Kafka.md",
     "kafka_Application.md",
     "3 Resource/Kafaka/Kafka_Resource/consumer.md",
     "3 Resource/Kafaka/Kafka_Resource/kafka_streams.md",
     "3 Resource/Kafaka/Kafka_Resource/Topic.md",
-    "Attached_File/Pasted image 20231107171736.png",
-    "Attached_File/Pasted image 20231107171402.png",
-    "Attached_File/Pasted image 20231107170918.png",
-    "Attached_File/Pasted image 20231107162348.png",
-    "Attached_File/Pasted image 20231107145856.png",
-    "Attached_File/Pasted image 20231107224700.png",
-    "Attached_File/Pasted image 20231107222308.png",
     "3 Resource/Spring/Spring_Resource/Spring이란.md",
     "3 Resource/Spring/Spring.md",
-    "3 Resource/Spring/Spring_Boot_Resource/Spring_Boot란.md",
-    "3 Resource/Spring/Spring_Boot.md",
-    "3 Resource/JAVA/Java.md",
-    "3 Resource/TestCode/TestCode_Resource/SpringRestDocs.md",
-    "3 Resource/TestCode/TestCode.md",
-    "3 Resource/TestCode/TestCode_Resource/Test_Fixture.md",
-    "3 Resource/TestCode/TestCode_Resource/학습테스트.md",
-    "3 Resource/TestCode/TestCode_Resource/DynamicTest.md",
-    "3 Resource/TestCode/TestCode_Resource/ParameterizedTest.md",
-    "3 Resource/TestCode/TestCode_Resource/Spring_Boot_JPA_에서의_Test.md",
-    "3 Resource/Kafaka/Kafka_Resource/producer.md",
-    "Attached_File/Pasted image 20231102141503.png",
     "3 Resource/TestCode/TestCode_Resource",
     "3 Resource/TestCode",
     "3 Resource/Linux/기초",
     "무제 파일.canvas",
-    "3 Resource/Kafaka/Kafka_Resource/클러스터",
-    "3 Resource/React/React_Resource/Router/무제 폴더",
-    "3 Resource/React/React_Resource/Router",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas"
   ]
