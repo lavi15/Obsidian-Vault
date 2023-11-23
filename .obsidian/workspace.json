@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
+                "file": "3 Resource/Spring/Spring_Resource/Spring이란.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
+                "file": "3 Resource/Spring/Spring_Resource/Spring이란.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
+                "file": "3 Resource/Spring/Spring_Resource/Spring이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md"
+                "file": "3 Resource/Spring/Spring_Resource/Spring이란.md"
               }
             }
           },
@@ -170,13 +170,25 @@
   },
   "active": "4695be6897470f25",
   "lastOpenFiles": [
-    "3 Resource/Kafaka/Kafka_Resource/kafka_streams.md",
+    "3 Resource/Spring/Spring.md",
+    "3 Resource/Spring/Spring_Boot.md",
+    "3 Resource/CICD/CICD_Resource/Ubuntu.md",
+    "3 Resource/CICD/CICD_Resource/spring,react.md",
+    "3 Resource/Linux/장애사례/장애사례.md",
+    "3 Resource/Linux/성능분석/tcpdump.md",
+    "3 Resource/Linux/성능분석/tcmdump.md",
+    "3 Resource/Linux/성능분석/성능분석.md",
+    "3 Resource/Linux/성능분석/top.md",
+    "3 Resource/Linux/기초/linux_기초.md",
+    "3 Resource/Linux/기초/linux_명령어1.md",
+    "3 Resource/Linux/기초/linux란.md",
+    "3 Resource/Kafaka/Kafka_Resource/kafka_명령어.md",
+    "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
     "3 Resource/Kafaka/Kafka_Resource/kafka_install.md",
+    "3 Resource/Kafaka/Kafka_Resource/kafka_streams.md",
     "3 Resource/Kafaka/Kafka_Resource/Partitioner.md",
     "3 Resource/Kafaka/Kafka_Resource/Topic.md",
     "3 Resource/Kafaka/Kafka_Resource/producer.md",
-    "3 Resource/CICD/CICD_Resource/spring,react.md",
-    "3 Resource/CICD/CICD_Resource/Ubuntu.md",
     "3 Resource/Kafaka/Kafka_Resource/세그먼트_삭제_주기.md",
     "3 Resource/Kafaka/Kafka_Resource/메타데이터.md",
     "3 Resource/Kafaka/Kafka_Resource/레코드.md",
@@ -184,22 +196,10 @@
     "3 Resource/Kafaka/Kafka_Resource/컨슈머_랙.md",
     "3 Resource/Kafaka/Kafka_Resource/클러스터.md",
     "3 Resource/Kafaka/Kafka_Resource/broker,replication,ISR.md",
-    "3 Resource/Kafaka/Kafka_Resource/burrow.md",
-    "3 Resource/Kafaka/Kafka_Resource/consumer.md",
-    "3 Resource/Kafaka/Kafka_Resource/kafka_명령어.md",
-    "3 Resource/Kafaka/Kafka_Resource/kafka_Application.md",
-    "3 Resource/Kafaka/Kafka_Resource/kafka_connect.md",
     "Attached_File/Pasted image 20231117231111.png",
     "Attached_File/Pasted image 20231117231049.png",
-    "3 Resource/JPA/JPA_Resource/JPA란.md",
     "3 Resource/JPA/JPA_Resource",
-    "3 Resource/JPA/JPA.md",
     "3 Resource/JPA",
-    "3 Resource/CICD/CICD_Resource/docker_jenkins_setting.md",
-    "3 Resource/CICD/CICD_Resource/BE-CI.md",
-    "3 Resource/CICD/CICD_Resource/CD.md",
-    "3 Resource/CICD/CICD.md",
-    "3 Resource/Docker/Docker.md",
     "3 Resource/Docker",
     "무제 파일.canvas",
     "Attached_File/Pasted image 20231116110306.png",
